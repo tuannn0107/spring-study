@@ -11,7 +11,6 @@ import org.springframework.web.context.annotation.RequestScope;
 public class PostServiceImpl implements IPostService {
     @Override
     public int writePost(Post post) {
-        ApplicationContext
         return 1;
     }
 }
