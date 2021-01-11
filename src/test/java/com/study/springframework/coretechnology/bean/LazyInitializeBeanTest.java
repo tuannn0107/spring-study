@@ -1,9 +1,7 @@
 package com.study.springframework.coretechnology.bean;
 
 import com.study.springframework.AbstractSpringFrameworkStudyTest;
-import org.junit.Assert;
 import org.junit.Test;
-import org.springframework.context.ApplicationContext;
 
 public class LazyInitializeBeanTest extends AbstractSpringFrameworkStudyTest {
 

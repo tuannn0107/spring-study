@@ -20,17 +20,38 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2c6e88e1-bea9-4d76-a616-1bb2889b756b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/spring-study.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/springframework/coretechnology/bean/NestedInner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/springframework/coretechnology/bean/IBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/springframework/coretechnology/bean/scope/BeanDefault.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/springframework/coretechnology/bean/scope/BeanDefault2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/springframework/coretechnology/bean/scope/BeanPrototype.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/springframework/coretechnology/bean/scope/BeanSingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/study/springframework/coretechnology/bean/scope/BeanScopeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/spring-study.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/study/springframework/coretechnology/bean/IBean.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/study/springframework/coretechnology/bean/scope/BeanDefault.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/study/springframework/coretechnology/bean/scope/BeanDefault2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/study/springframework/coretechnology/bean/scope/BeanPrototype.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/study/springframework/coretechnology/bean/scope/BeanSingleton.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/META-INF/spring-study.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/study/springframework/coretechnology/bean/scope/BeanScopeTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/study/springframework/coretechnology/bean/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/study/springframework/coretechnology/bean/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/study/springframework/services/impl/PostServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/study/springframework/services/impl/PostServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/study/springframework/AbstractSpringFrameworkStudyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/study/springframework/AbstractSpringFrameworkStudyTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/study/springframework/coretechnology/bean/LazyInitializeBeanTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/study/springframework/coretechnology/bean/LazyInitializeBeanTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/study/springframework/controller/PostController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/study/springframework/controller/PostController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/study/springframework/coretechnology/bean/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/study/springframework/coretechnology/bean/Animal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/study/springframework/coretechnology/bean/NestedInner$NestedClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/study/springframework/coretechnology/bean/NestedInner$NestedClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/study/springframework/coretechnology/bean/NestedInner.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/study/springframework/coretechnology/bean/NestedInner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/study/springframework/handler/RestControllerAdvice.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/study/springframework/handler/RestControllerAdvice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/study/springframework/sdo/Post.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/study/springframework/sdo/Post.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/study/springframework/services/IPostService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/study/springframework/services/IPostService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/study/springframework/services/impl/PostServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/study/springframework/services/impl/PostServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/study/springframework/webhook/NotificationWebhook.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/study/springframework/webhook/NotificationWebhook.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/study/springframework/AbstractSpringFrameworkStudyTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/study/springframework/AbstractSpringFrameworkStudyTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/study/springframework/ApplicationConfiguration.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/study/springframework/ApplicationConfiguration.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/study/springframework/coretechnology/bean/LazyInitializeBeanTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/study/springframework/coretechnology/bean/LazyInitializeBeanTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +66,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -52,9 +74,17 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
   <component name="ProjectId" id="1iPtTjYFRybYAraLAN98GytjBtR" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
@@ -63,15 +93,73 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="D:/projects/kremo-web/client" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../kremo-web/client" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.study.springframework.coretechnology.bean.scope" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.study.springframework.coretechnology.bean.scope" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.BeanScopeTest.beanAutowireTest">
+    <configuration name="BeanScopeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.study.springframework.coretechnology.bean.scope.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.study.springframework.coretechnology.bean.scope" />
+      <option name="MAIN_CLASS_NAME" value="com.study.springframework.coretechnology.bean.scope.BeanScopeTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BeanScopeTest.beanAutowireTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.study.springframework.coretechnology.bean.scope.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.study.springframework.coretechnology.bean.scope" />
+      <option name="MAIN_CLASS_NAME" value="com.study.springframework.coretechnology.bean.scope.BeanScopeTest" />
+      <option name="METHOD_NAME" value="beanAutowireTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BeanScopeTest.beanSingletonTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.study.springframework.coretechnology.bean.scope.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.study.springframework.coretechnology.bean.scope" />
+      <option name="MAIN_CLASS_NAME" value="com.study.springframework.coretechnology.bean.scope.BeanScopeTest" />
+      <option name="METHOD_NAME" value="beanSingletonTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="LazyInitializeBeanTest.lazyInitBeantest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="spring-study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.study.springframework.coretechnology.bean.*" />
+          <option name="PATTERN" value="com.study.springframework.coretechnology.bean.scope.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,6 +173,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.BeanScopeTest.beanAutowireTest" />
+        <item itemvalue="JUnit.BeanScopeTest" />
+        <item itemvalue="JUnit.BeanScopeTest.beanSingletonTest" />
         <item itemvalue="JUnit.LazyInitializeBeanTest.lazyInitBeantest" />
       </list>
     </recent_temporary>
@@ -102,6 +193,8 @@
       <workItem from="1601821068666" duration="272000" />
       <workItem from="1601883260513" duration="627000" />
       <workItem from="1609988608978" duration="5316000" />
+      <workItem from="1610280595097" duration="1920000" />
+      <workItem from="1610370890835" duration="3202000" />
     </task>
     <servers />
   </component>
@@ -118,12 +211,30 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1085" y="416" key="#com.intellij.ide.util.MemberChooser" timestamp="1609995049682">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state x="568" y="232" key="#Notifications" timestamp="1610280611504">
+      <screen x="0" y="0" width="1366" height="738" />
     </state>
+    <state x="568" y="232" key="#Notifications/0.0.1366.738@0.0.1366.738" timestamp="1610280611504" />
+    <state x="163" y="0" key="#Project_Structure" timestamp="1610280925551">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="163" y="0" key="#Project_Structure/0.0.1366.738@0.0.1366.738" timestamp="1610280925551" />
+    <state x="579" y="106" key="#com.intellij.ide.util.MemberChooser" timestamp="1610372478569">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="579" y="106" key="#com.intellij.ide.util.MemberChooser/0.0.1366.738@0.0.1366.738" timestamp="1610372478569" />
     <state x="1085" y="416" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1400@0.0.2560.1400" timestamp="1609995049682" />
+    <state x="409" y="238" width="549" height="268" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1610372747411">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="409" y="238" width="549" height="268" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.738@0.0.1366.738" timestamp="1610372747411" />
+    <state x="189" y="58" width="1115" height="594" key="#xdebugger.evaluate" timestamp="1610285953898">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="189" y="58" width="1115" height="594" key="#xdebugger.evaluate/0.0.1366.738@0.0.1366.738" timestamp="1610285953898" />
     <state width="415" height="466" key="DebuggerActiveHint" timestamp="1610015353242">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -133,42 +244,59 @@
     </state>
     <state x="463" y="124" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1601821095843" />
     <state x="868" y="235" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1610079811916" />
-    <state width="2517" height="492" key="GridCell.Tab.0.bottom" timestamp="1610079813026">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state width="1323" height="182" key="GridCell.Tab.0.bottom" timestamp="1610377927184">
+      <screen x="0" y="0" width="1366" height="738" />
     </state>
+    <state width="1323" height="182" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1610377927184" />
     <state width="2517" height="492" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1610079813026" />
-    <state width="2517" height="492" key="GridCell.Tab.0.center" timestamp="1610079813026">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state width="1323" height="182" key="GridCell.Tab.0.center" timestamp="1610377927184">
+      <screen x="0" y="0" width="1366" height="738" />
     </state>
+    <state width="1323" height="182" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1610377927184" />
     <state width="2517" height="492" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1610079813026" />
-    <state width="2517" height="492" key="GridCell.Tab.0.left" timestamp="1610079813026">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state width="1323" height="182" key="GridCell.Tab.0.left" timestamp="1610377927184">
+      <screen x="0" y="0" width="1366" height="738" />
     </state>
+    <state width="1323" height="182" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1610377927184" />
     <state width="2517" height="492" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1610079813026" />
-    <state width="2517" height="492" key="GridCell.Tab.0.right" timestamp="1610079813026">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state width="1323" height="182" key="GridCell.Tab.0.right" timestamp="1610377927184">
+      <screen x="0" y="0" width="1366" height="738" />
     </state>
+    <state width="1323" height="182" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1610377927184" />
     <state width="2517" height="492" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1610079813026" />
-    <state width="2517" height="492" key="GridCell.Tab.1.bottom" timestamp="1610079813027">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state width="1323" height="227" key="GridCell.Tab.1.bottom" timestamp="1610291882617">
+      <screen x="0" y="0" width="1366" height="738" />
     </state>
+    <state width="1323" height="227" key="GridCell.Tab.1.bottom/0.0.1366.738@0.0.1366.738" timestamp="1610291882617" />
     <state width="2517" height="492" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1610079813027" />
-    <state width="2517" height="492" key="GridCell.Tab.1.center" timestamp="1610079813026">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state width="1323" height="227" key="GridCell.Tab.1.center" timestamp="1610291882617">
+      <screen x="0" y="0" width="1366" height="738" />
     </state>
+    <state width="1323" height="227" key="GridCell.Tab.1.center/0.0.1366.738@0.0.1366.738" timestamp="1610291882617" />
     <state width="2517" height="492" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1610079813026" />
-    <state width="2517" height="492" key="GridCell.Tab.1.left" timestamp="1610079813026">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state width="1323" height="227" key="GridCell.Tab.1.left" timestamp="1610291882617">
+      <screen x="0" y="0" width="1366" height="738" />
     </state>
+    <state width="1323" height="227" key="GridCell.Tab.1.left/0.0.1366.738@0.0.1366.738" timestamp="1610291882617" />
     <state width="2517" height="492" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1610079813026" />
-    <state width="2517" height="492" key="GridCell.Tab.1.right" timestamp="1610079813027">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state width="1323" height="227" key="GridCell.Tab.1.right" timestamp="1610291882617">
+      <screen x="0" y="0" width="1366" height="738" />
     </state>
+    <state width="1323" height="227" key="GridCell.Tab.1.right/0.0.1366.738@0.0.1366.738" timestamp="1610291882617" />
     <state width="2517" height="492" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1610079813027" />
-    <state x="781" y="345" key="SettingsEditor" timestamp="1610015417288">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state x="160" y="9" key="SettingsEditor" timestamp="1610280992595">
+      <screen x="0" y="0" width="1366" height="738" />
     </state>
+    <state x="160" y="9" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1610280992595" />
     <state x="781" y="345" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1610015417288" />
+    <state width="691" height="377" key="XDebugger.FullValuePopup" timestamp="1610281186809">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="691" height="377" key="XDebugger.FullValuePopup/0.0.1366.738@0.0.1366.738" timestamp="1610281186809" />
+    <state x="0" y="0" width="585" height="738" key="find.popup" timestamp="1610280785196">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="0" y="0" width="585" height="738" key="find.popup/0.0.1366.738@0.0.1366.738" timestamp="1610280785196" />
     <state x="989" y="488" key="git4idea.merge.GitPullDialog" timestamp="1609988618550">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -185,5 +313,21 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="936" y="353" width="670" height="676" key="search.everywhere.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1610015395355" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/study/springframework/coretechnology/bean/LazyInitializeBeanTest.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/study/springframework/coretechnology/bean/LazyInitializeBeanTest.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
