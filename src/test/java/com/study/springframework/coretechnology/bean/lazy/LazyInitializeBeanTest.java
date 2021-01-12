@@ -1,6 +1,7 @@
-package com.study.springframework.coretechnology.bean;
+package com.study.springframework.coretechnology.bean.lazy;
 
 import com.study.springframework.AbstractSpringFrameworkStudyTest;
+import com.study.springframework.coretechnology.bean.lazy.Animal;
 import org.junit.Test;
 
 public class LazyInitializeBeanTest extends AbstractSpringFrameworkStudyTest {

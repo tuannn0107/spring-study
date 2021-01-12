@@ -1,5 +1,7 @@
 package com.study.springframework.coretechnology.bean.scope;
 
+import com.study.springframework.coretechnology.bean.BeanPrototype;
+import com.study.springframework.coretechnology.bean.BeanSingleton;
 import com.study.springframework.coretechnology.bean.IBean;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;

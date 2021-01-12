@@ -1,0 +1,17 @@
+package com.study.springframework.coretechnology.bean.di;
+
+import com.study.springframework.coretechnology.bean.BeanSingleton;
+import org.springframework.stereotype.Component;
+
+@Component
+public class ConstructorBaseDi {
+    private BeanSingleton beanSingleton;
+
+    public ConstructorBaseDi(BeanSingleton beanSingleton) {
+        this.beanSingleton = beanSingleton;
+    }
+
+    public BeanSingleton getBeanSingleton() {
+        return beanSingleton;
+    }
+}

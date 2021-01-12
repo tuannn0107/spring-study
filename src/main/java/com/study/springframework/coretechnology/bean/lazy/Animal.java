@@ -1,4 +1,4 @@
-package com.study.springframework.coretechnology.bean;
+package com.study.springframework.coretechnology.bean.lazy;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Lazy;

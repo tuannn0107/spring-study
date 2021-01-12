@@ -1,6 +1,8 @@
 package com.study.springframework.coretechnology.bean.scope;
 
 import com.study.springframework.AbstractSpringFrameworkStudyTest;
+import com.study.springframework.coretechnology.bean.BeanPrototype;
+import com.study.springframework.coretechnology.bean.BeanSingleton;
 import org.junit.Assert;
 import org.junit.Test;
 import org.springframework.context.ApplicationContext;
