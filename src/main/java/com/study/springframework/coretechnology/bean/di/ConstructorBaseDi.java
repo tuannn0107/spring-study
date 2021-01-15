@@ -7,6 +7,10 @@ import org.springframework.stereotype.Component;
 public class ConstructorBaseDi {
     private BeanSingleton beanSingleton;
 
+    /**
+     * Constructor inject. Spring will inject the dependency when the bean initialized
+     * @param beanSingleton
+     */
     public ConstructorBaseDi(BeanSingleton beanSingleton) {
         this.beanSingleton = beanSingleton;
     }

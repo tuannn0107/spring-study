@@ -9,6 +9,10 @@ import org.springframework.stereotype.Component;
 public class SetterBaseDi {
     private BeanSingleton beanSingleton;
 
+    /**
+     * The dependency will be injected when init the bean through setter method
+     * @param beanSingleton
+     */
     @Autowired
     public void setBeanSingleton(BeanSingleton beanSingleton) {
         this.beanSingleton = beanSingleton;
