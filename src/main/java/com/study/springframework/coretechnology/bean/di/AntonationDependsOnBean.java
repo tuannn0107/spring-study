@@ -5,8 +5,8 @@ import org.springframework.stereotype.Component;
 
 @Component
 @DependsOn({"beanA"})
-public class DependsOnBean {
-    public DependsOnBean() {
+public class AntonationDependsOnBean {
+    public AntonationDependsOnBean() {
         System.out.println("Initialize bean DependsOnBean!!!!");
     }
 }

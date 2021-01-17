@@ -36,4 +36,10 @@ public class DependencyInjectionTest extends AbstractSpringFrameworkStudyTest {
     public void circularDependencyTest() {
         ApplicationContext applicationContext = getApplicationContext();
     }
+
+    @Test
+    public void dependsOnTest() {
+        // The bean A must be initialize before bean AnnotationDependsOnBean
+        ApplicationContext applicationContext = getApplicationContext();
+    }
 }

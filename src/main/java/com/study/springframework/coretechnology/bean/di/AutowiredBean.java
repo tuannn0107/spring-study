@@ -2,6 +2,7 @@ package com.study.springframework.coretechnology.bean.di;
 
 import com.study.springframework.coretechnology.bean.BeanSingleton;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.beans.factory.annotation.Lookup;
 import org.springframework.stereotype.Component;
 
 import javax.annotation.PostConstruct;
