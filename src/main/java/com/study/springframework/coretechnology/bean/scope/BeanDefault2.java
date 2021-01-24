@@ -4,9 +4,11 @@ import com.study.springframework.coretechnology.bean.BeanPrototype;
 import com.study.springframework.coretechnology.bean.BeanSingleton;
 import com.study.springframework.coretechnology.bean.IBean;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.context.annotation.Primary;
 import org.springframework.stereotype.Component;
 
 @Component
+@Primary
 public class BeanDefault2 implements IBean {
     private BeanPrototype beanPrototype;
     private BeanSingleton beanSingleton;
