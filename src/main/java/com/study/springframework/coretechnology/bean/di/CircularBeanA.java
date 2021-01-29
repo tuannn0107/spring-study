@@ -10,7 +10,7 @@ public class CircularBeanA {
     private CircularBeanB circularBeanB;
 
     public CircularBeanA() {
-        System.out.println("Initial " + this.getClass());
+        //System.out.println("Initial " + this.getClass());
     }
 
     public void callBeanB() {

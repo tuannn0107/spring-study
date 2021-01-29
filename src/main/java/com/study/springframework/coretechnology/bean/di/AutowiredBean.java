@@ -21,7 +21,7 @@ public class AutowiredBean {
     private IBean beanDefault;
 
     public AutowiredBean() {
-        System.out.println("Inti bean!!!!");
+        //System.out.println("Inti bean!!!!");
     }
 
     @PostConstruct

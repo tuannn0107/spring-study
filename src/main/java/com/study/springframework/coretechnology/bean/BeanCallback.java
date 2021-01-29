@@ -8,17 +8,17 @@ import org.springframework.stereotype.Component;
 @Component
 public class BeanCallback implements InitializingBean, DisposableBean, BeanNameAware {
     public BeanCallback() {
-        System.out.println("Initial BeanCallback!!!!");
+        //System.out.println("Initial BeanCallback!!!!");
     }
 
     @Override
     public void afterPropertiesSet() throws Exception {
-        System.out.println("Initialization BeanCallback!!!!");
+        //System.out.println("Initialization BeanCallback!!!!");
     }
 
     @Override
     public void destroy() throws Exception {
-        System.out.println("Disposable BeanCallback!!!!");
+        //System.out.println("Disposable BeanCallback!!!!");
     }
 
 

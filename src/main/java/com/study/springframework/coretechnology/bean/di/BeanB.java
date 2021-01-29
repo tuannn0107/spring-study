@@ -6,6 +6,6 @@ import org.springframework.stereotype.Component;
 @Component
 public class BeanB {
     public BeanB() {
-        System.out.println("Initialize bean B!!!!");
+        //System.out.println("Initialize bean B!!!!");
     }
 }

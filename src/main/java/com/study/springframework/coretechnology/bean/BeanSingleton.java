@@ -10,6 +10,6 @@ import org.springframework.stereotype.Component;
 public class BeanSingleton implements IBean {
     @Override
     public void sayHi() {
-        System.out.println("Hello " + this.getClass().toString());
+        //System.out.println("Hello " + this.getClass().toString());
     }
 }
