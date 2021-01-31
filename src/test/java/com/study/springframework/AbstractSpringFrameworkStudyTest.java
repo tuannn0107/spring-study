@@ -1,5 +1,7 @@
 package com.study.springframework;
 
+import com.study.springframework.utils.PrintStreamStorage;
+import org.junit.Before;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.beans.BeansException;
@@ -14,6 +16,11 @@ import java.util.Objects;
 @ContextConfiguration(classes = {ApplicationConfiguration.class})
 public class AbstractSpringFrameworkStudyTest implements ApplicationContextAware {
     private ApplicationContext applicationContext;
+
+    @Before
+    public void beforeMethod() {
+        PrintStreamStorage.getInstance().reset();
+    }
 
 
     @Override

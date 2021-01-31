@@ -31,4 +31,15 @@ public class PrintStreamStorage {
     public Map<String, Integer> getPrintStreamStorage() {
         return printStreamStorage;
     }
+
+    public void reset() {
+        this.printStreamStorage.clear();
+        this.index = 0;
+    }
+
+    public void printStorage() {
+        for(Map.Entry<String, Integer> entry : printStreamStorage.entrySet()) {
+            System.out.println(String.format("%s : %s", entry.getValue(), entry.getKey()));
+        }
+    }
 }
